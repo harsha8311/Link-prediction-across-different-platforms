@@ -1,1 +1,1 @@
-# Link-prediction-across-different-platforms
+# Link-prediction-across-platforms
